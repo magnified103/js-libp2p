@@ -63,6 +63,7 @@
     "@peculiar/webcrypto": "^1.5.0",
     "@peculiar/x509": "^1.11.0",
     "any-signal": "^4.1.1",
+    "@roamhq/wrtc": "^0.8.0",
     "detect-browser": "^5.3.0",
     "get-port": "^7.1.0",
     "it-length-prefixed": "^10.0.1",
