@@ -1,5 +1,5 @@
 import { PeerConnection } from '@ipshipyard/node-datachannel'
-import { RTCPeerConnection } from '@ipshipyard/node-datachannel/polyfill'
+import { RTCPeerConnection } from '../../webrtc/index.js'
 import { Crypto } from '@peculiar/webcrypto'
 import { DEFAULT_ICE_SERVERS } from '../../constants.js'
 import { MAX_MESSAGE_SIZE } from '../../stream.js'
